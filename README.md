@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adilumer, a software developer with a Physics background.
+- 👋 Hi, I’m @adilumer, a software developer with a degree in Physics.
 
 - 👀 I’m interested in development on all programs, but as one can't carry a load of watermelons at once, I am focusing on backend development with Node.js and PostgreSQL; and native iOS development with Swift. Almost all of my personal projects and work-related responsibilities are based on these technologies. I did start with C\C++ and used C#.Net back in 2009 for a while but a lot has changed on .Net side since then. I later switched to web based applications (and JS) as I really love the flexibility of JavaScript and the rate of evolution of web-based technologies really pulls me in. 
 
