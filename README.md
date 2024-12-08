@@ -1,22 +1,43 @@
 # 👋 Hello, I'm Adil Umer
 
-### 🌟 Software Developer with a Passion for Innovation
+## 🌟 Passionate Software Developer (and somewhat a Physicist)
 
-I’m a dedicated software developer with a keen interest in creating impactful solutions across multiple platforms. While my curiosity spans the entire development ecosystem, I've honed my focus on backend development with **Node.js** and **PostgreSQL**, and native iOS development with **Swift**.
+I'm a software developer with a background in physics, focused on building efficient and scalable solutions. My expertise includes backend development with Node.js and PostgreSQL, native iOS development with Swift, and a keen interest in optimizing low-level systems. I enjoy tackling complex problems.
 
-### 💻 My Journey
-I began my coding adventure with **C/C++** and dabbled in **C#.Net** back in 2009, though the .Net world has evolved significantly since then. My shift towards web-based applications led me to discover the flexibility and dynamism of **JavaScript**, a language that continues to inspire me.
+---
 
-### 🔧 What I'm Working On
-Most of my projects, both personal and professional, revolve around the technologies I love:
+## 💻 My Coding Journey
 
-- **Node.js** & **PostgreSQL** for building robust and scalable backend solutions.
-- **Swift** for crafting elegant and responsive iOS applications.
+My programming journey began in 2009 with C/C++ and C#.Net, coupled with low-level projects as a hobbyist. My physics background introduced me to LabView, providing hands-on experience in experimental setups and hardware-software integration. This interdisciplinary approach has shaped my problem-solving skills, combining analytical thinking with technical expertise. As my career progressed, I expanded into web and mobile development, exploring various languages and frameworks. My experience spans backend systems, database management, and native iOS development. I continuously seek to broaden my skill set, embracing new technologies and methodologies to create efficient, scalable solutions across different domains.
 
-I’m currently expanding my skill set with **Angular** for frontend development. Although I’ve always admired **jQuery** (a fondness that goes back to my 10th grade), I’m adapting to modern frameworks as the tech landscape evolves. I’ve also started exploring **Kotlin** with plans to venture into Android app development soon.
+---
 
-### 🤝 Let's Collaborate
-I’m eager to collaborate on anything related to **TypeScript/JavaScript** and **PostgreSQL**. Whether it's contributing to open-source projects or brainstorming new ideas, I’m always up for a challenge.
+## 🔧 Current Projects & Focus Areas
 
-### 📫 Get in Touch
-Feel free to reach out to me on [Twitter](https://twitter.com/adilumer_) or drop me an email at [adil.umer.dev@gmail.com](mailto:adil.umer.dev@gmail.com). Let's create something amazing together!
+- Node.js & PostgreSQL: Developing scalable backend systems
+- C#: Utilizing .NET for cross-platform and enterprise development
+- Swift: For native iOS applications
+- TypeScript: Building complex projects and Angular-based UIs
+- LabView & Low-Level Projects: Integrating hardware and software for scientific-ish applications
+
+---
+
+## 🚀 Science, Technology & the Road Ahead
+
+As a physicist turned software developer, I remain deeply connected to my scientific roots. I’m driven by a passion for discovery - my fondness for low level systems dates back to my school days; yet I’ve embraced modern frameworks to stay at the cutting edge of the tech landscape. My journey is one of perpetual learning, experimentation, and innovation.
+
+---
+
+### 🤝 Collaboration & Contributions
+
+I'm always interested in collaborating on challenging projects, particularly those involving TypeScript, JavaScript, PostgreSQL, or hardware-software integration. Whether it's contributing to open-source, developing new ideas, or exploring the intersection of science and technology, I'm open to any and all meaningful collaborations.
+
+---
+
+### 📫 Let’s Connect!
+
+- **Twitter**: [@adilumer_](https://twitter.com/adilumer_)  
+- **Email**: [adil.umer.dev@gmail.com](mailto:adil.umer.dev@gmail.com)  
+- **GitHub**: [adilumer](https://github.com/adilumer)  
+- **LinkedIn**: [adilumer](https://www.linkedin.com/in/m-a-umer/)
+- **website**: One of those days I'll have time to launch it: [adilumer.com](https://adilumer.com)
